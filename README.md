@@ -1,0 +1,1 @@
+Lectures, labs and notes on ITMO University subjects (Introduction to digital culture, Data storage and processing, Applied statistics, Machine learning and Data analysis).
